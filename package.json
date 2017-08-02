@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevintamarus/chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevintamarus/chat/issues"
+  },
+  "homepage": "https://github.com/kevintamarus/chat#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.5",
+    "nodemon": "^1.11.0"
+  }
+}
